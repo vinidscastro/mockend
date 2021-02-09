@@ -1,4 +1,5 @@
 {
+ data:{
  "cnpj": string,
   "totalSells": int,
   "qtSells": int,
@@ -6,4 +7,5 @@
   'customers': int,
   "month": int,
   "year": int,
+ }
 }
