@@ -1,0 +1,13 @@
+{
+  data:{
+     {
+        "cnpj": "string",
+        "totalSells": "int",
+        "sellsint": "int",
+        "mediumTicket": "int",
+        "customers": "int",
+        "month": "int",
+        "year": "int"
+    }
+}
+}
