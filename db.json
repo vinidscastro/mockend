@@ -1,5 +1,5 @@
 {
-  data:{
+  data:[
      {
         "cnpj": "string",
         "totalSells": "int",
@@ -9,5 +9,5 @@
         "month": "int",
         "year": "int"
     }
-}
+]
 }
