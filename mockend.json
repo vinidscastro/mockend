@@ -1,0 +1,9 @@
+{
+ "cnpj": string,
+  "totalSells": int,
+  "qtSells": int,
+  "ticket": int,
+  'customers': int,
+  "month": int,
+  "year": int,
+}
